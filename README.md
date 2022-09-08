@@ -1,6 +1,6 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Space Travlers' Hub.
+# Space Travlers' Hub
 
 This project is working with the real live data from the SpaceX API. The application will allow users to book rockets and join selected space missions.
 
