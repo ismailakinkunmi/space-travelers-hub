@@ -1,12 +1,12 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Space Travlers' Hub.
+# Space Travlers' Hub
 
 This project is working with the real live data from the SpaceX API. The application will allow users to book rockets and join selected space missions.
 
 ## Screen Shots
 
-> Coming Soon.
+> ![Screenshot (201)](https://user-images.githubusercontent.com/37457094/189049737-69d1bb57-cd15-477a-af04-68771c9d7654.png)
 
 ## Built With &hearts;
 
@@ -26,7 +26,7 @@ To get a local copy up and running follow these setup steps.
 
 **Setup**
 
-- Open terminal and clone the project: `git clone git@github.com:Mo7amedSMahdi/space-travelers-hub`
+- Open terminal and clone the project: `git clone git@github.com:ismailakinkunmi/space-travelers-hub.git`
 - cd into the directory `space-travelers-hub`
 
 **Prerequisites**
@@ -40,8 +40,6 @@ To get a local copy up and running follow these setup steps.
 ```sh
   npm install
 ```
-
-- In case you run into any errors please raise an [issue](https://github.com/Mo7amedSMahdi/space-travelers-hub/issues).
 
 **Usage**
 
